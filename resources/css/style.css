@@ -1,1 +1,52 @@
 /* New File */
+body{
+  text-align: center;
+  font-family: Helvetica;
+}
+
+h3{
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h4{
+  font-size: 23px;
+  font-weight: bold;
+}
+
+a{
+  font-size: 18px;
+  color: white;
+}
+
+p{
+  font-size: 14px;
+}
+
+#banner-n-nav, #NY, #tm-n-nav{
+  color: white;
+}
+
+#banner-n-nav, #NY{
+  background-image: url("../images/the-flatiron-building.PNG");
+  background-position: left;
+}
+
+#company{
+  font-size: 70px;
+  font-weight: bold;
+}
+
+#tm-n-nav{
+  text-align: left;
+  background-color: dimgray;
+}
+
+.tm{
+  font-size: 11px;
+}
+
+/*#NY{
+  font-size: 23px;
+  font-weight: bold;
+}*/
